@@ -1,7 +1,7 @@
 import socket
 import sys
 
-# Create socket
+# Create socket using the following
 
 def socket_create():
     try:
